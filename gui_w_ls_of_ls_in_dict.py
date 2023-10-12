@@ -1,6 +1,7 @@
 """
 D Barnes
 Revision: 10/11/23
+Begin
 """
 
 import tkinter as tk
@@ -55,3 +56,7 @@ lbl_result.pack()
 window.mainloop()
 
 print(votingInfo)
+"""
+Revision 10/11/2023
+END
+"""
